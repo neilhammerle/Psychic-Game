@@ -1,0 +1,28 @@
+hmtl {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://digitaladdictsblog.com/wp-content/uploads/2019/01/shutterstock_295846730.jpg);
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.head-image {
+    width: 100%;
+    height: 75px;
+}
+
+.footer {
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    background: purple;
+    text-align: center;
+    color: white;
+    padding: 1rem;
+}
